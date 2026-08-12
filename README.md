@@ -45,5 +45,4 @@ Current Grade: 12th Grade
 Institution: RV PU College
 
 Status
-
 Project Stage: Planning & Development
